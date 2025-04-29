@@ -26,8 +26,19 @@ GEN AI PROJECT/
       .\venv\Scripts\activate
 3. Install dependencies
    -> pip install -r requirements.txt
-4. Run the application
-5. -> streamlit run app.py
+   
+5. ## Ollama Setup
+   -> This project uses Ollama to run local language models for both embeddings and language generation.
+   Prerequisites:
+   -> Download and install Ollama from offical website
+   Ensure Ollama is running before launching the app
+   # Required Models
+   -> ollama run nomic-embed-text
+   -> ollama run gemma3:1b(LLM of your choice)
+   -> You only need to do this once. Ollama will handle the rest during runtime
+
+6. Run the application
+   -> streamlit run app.py
 
 ## Demo Screenshot
 See `Screenshot.png` in the root directory for a preview of the application interface.
