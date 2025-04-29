@@ -20,7 +20,7 @@ GEN AI PROJECT/
 ## Installation
 1. Clone the repository
 2. Create and activate a virtual enviornment
-    -> python -m venv venv
+   -> python -m venv venv
       # Activate it:
       # On Windows
       .\venv\Scripts\activate
@@ -28,3 +28,6 @@ GEN AI PROJECT/
    -> pip install -r requirements.txt
 4. Run the application
 5. -> streamlit run app.py
+
+## Demo Screenshot
+See `Screenshot.png` in the root directory for a preview of the application interface.
