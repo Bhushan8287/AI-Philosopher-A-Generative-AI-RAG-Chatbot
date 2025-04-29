@@ -23,7 +23,7 @@ GEN AI PROJECT/
 1. Clone the repository
 2. Create and activate a virtual enviornment
    -> python -m venv venv
-      # How to Activate it:
+      # How to run it:
       # On Windows
       .\venv\Scripts\activate
 3. Install dependencies
