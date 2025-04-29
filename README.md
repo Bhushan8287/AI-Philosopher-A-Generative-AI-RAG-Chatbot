@@ -27,7 +27,4 @@ GEN AI PROJECT/
 3. Install dependencies
    -> pip install -r requirements.txt
 4. Run the application
-5. -> streamlit un app.py
-
-## Demo
-![App Screenshot](Screenshot.png)
+5. -> streamlit run app.py
