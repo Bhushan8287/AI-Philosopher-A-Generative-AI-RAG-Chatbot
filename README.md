@@ -6,6 +6,7 @@ This project demonstrates foundational skills in GenAI application development, 
 
 
 ## Project Structure
+````
 GEN AI PROJECT/
 ├── genaivenv/         # Virtual environment (excluded from version control)
 ├── .gitignore         # Git configuration to exclude files/folders
@@ -16,6 +17,7 @@ GEN AI PROJECT/
 │   ├── .env           # Environment variables (excluded)
 │   ├── data.txt       # Knowledge base or data source
 │   └── chroma_db/     # Vector database for embeddings
+````
 
 ## Installation
 1. Clone the repository
