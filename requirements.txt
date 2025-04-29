@@ -1,0 +1,12 @@
+langchain
+ipykernel
+python-dotenv
+langchain-community
+langchain-text-splitters
+chromadb
+sentence_transformers
+faiss-cpu
+chromadb
+langchain_chroma
+streamlit
+langsmith
