@@ -21,7 +21,7 @@ GEN AI PROJECT/
 1. Clone the repository
 2. Create and activate a virtual enviornment
    -> python -m venv venv
-      # Activate it:
+      # How to Activate it:
       # On Windows
       .\venv\Scripts\activate
 3. Install dependencies
@@ -33,11 +33,12 @@ GEN AI PROJECT/
    -> Download and install Ollama from offical website
    Ensure Ollama is running before launching the app
    # Required Models
+   Run these commands in the cmd
    -> ollama run nomic-embed-text
    -> ollama run gemma3:1b(LLM of your choice)
    -> You only need to do this once. Ollama will handle the rest during runtime
 
-6. Run the application
+7. Run the application
    -> streamlit run app.py
 
 ## Demo Screenshot
