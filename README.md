@@ -25,7 +25,7 @@ GEN AI PROJECT/
    -> python -m venv venv
       # How to run it:
       # On Windows
-      .\venv\Scripts\activate
+      create a virtual enviornment
 3. Install dependencies
    ````
    -> pip install -r requirements.txt
@@ -40,7 +40,7 @@ GEN AI PROJECT/
    Run these commands in the cmd
    ````
    -> ollama run nomic-embed-text
-   -> ollama run gemma3:1b(LLM of your choice)
+   -> ollama run gemma3:1b
    -> You only need to do this once. Ollama will handle the rest during runtime
    ````
    
