@@ -1,7 +1,7 @@
 # AI Philosopher Chatbot
 
 An AI-powered question-answering application built with Streamlit and LangChain.  
-It leverages local text documents about philosophy to provide context-based answers using a Retrieval-Augmented Generation (RAG) pipeline.  
+It leverages local text document about philosophy to provide context-based answers using a Retrieval-Augmented Generation (RAG) pipeline.  
 This project demonstrates foundational skills in GenAI application development, including LLM integration, embeddings, and vector search.
 
 
